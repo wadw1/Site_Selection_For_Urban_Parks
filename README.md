@@ -1,8 +1,10 @@
 # Site_Selection_For_Urban_Parks
-**The ArcGIS project Topic: Site selection for new urban parks and gardens in Melbourne**
+**The ArcGIS project Topic:** Site selection for new urban parks and gardens in Melbourne
 
 This project aims to provide supports for urban green spaces selection and construction for parks and gardens in Melbourne.
 It is designed to find potential suitable urban parks and gardens by undertaking many geospatial analysis with related spatial information and indicators to meet Melbourne's increased demand for urban green spaces. 
+
+**Author:** Group 1-7
 
 This project contains nine layers:
 
