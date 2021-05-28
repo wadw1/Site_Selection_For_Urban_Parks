@@ -6,15 +6,15 @@ It is designed to find potential suitable urban parks and gardens by undertaking
 
 This project contains nine layers:
 
-**Temperature Analysis**
+1. **Temperature Analysis**
 
 - Max Temperature Layer --> temperature more than 22 °C
 
-**Population-ratio analysis**
+2. **Population-ratio analysis**
 
 - Population Layer --> more than 453 people/SQKM 
    
-**Green Space Factor Analysis**
+3. **Green Space Factor Analysis**
 
 - The Amount (green space per capita) Layer --> less than 28.3 SQM/person
 
@@ -22,7 +22,7 @@ This project contains nine layers:
 
 - The Diversity of green space Layer --> less than 4 types
 
-**Road Network Analysis**
+4. **Road Network Analysis**
 
 - The Average Distance in our study area Layer --> over 800 meters
 
@@ -30,6 +30,6 @@ This project contains nine layers:
 
 - The Service area Layer --> cut-off is 400 meters
 
-**Land Use Analysis**
+5. **Land Use Analysis**
 
 - The Public free land Layer --> over 25 Ha
